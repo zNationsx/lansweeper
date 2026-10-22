@@ -1,6 +1,0 @@
-{
-  "name": "Lansweeper Change Auditor",
-  "description": "Ferramenta profissional para auditoria de inventários do Lansweeper com detecção de entradas e saídas de ativos.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
